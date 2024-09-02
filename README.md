@@ -1,8 +1,6 @@
 # emma-repo
 Første repository
 macOS Monterey Versjon 12.7.6
-<<<<<<< HEAD
 emma-wolden
-=======
 git version 2.37.1 (Apple Git-137.1)
->>>>>>> 2870456 (lagt inn git-versjon på egen datamaskin)
+lagt inn git-versjon på egen datamaskin
